@@ -18,7 +18,7 @@ class Homepage extends Component {
               <h1>Aspiring Frontend Developer</h1>
               <hr />
               <p>
-                HTML | CSS | BOOTSTRAP | C# 
+                HTML | CSS | BOOTSTRAP | C++
               </p>
               <div className="social-links">
                 {/* LinkedIn */}
